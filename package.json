@@ -13,7 +13,7 @@
     "aws-sdk": "^2.637.0",
     "serverless-dynamodb-client": "0.0.2",
     "serverless-dynamodb-local": "^0.2.39",
-    "serverless": "^1.66.0",
+    "serverless": "^3.27.0",
     "serverless-offline": "^5.12.1"
   },
   "dependencies": {
